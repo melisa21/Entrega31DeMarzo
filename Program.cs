@@ -6,11 +6,8 @@ namespace Entrega31DeMarzo
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("Nahuel Costa");
-=======
             Console.WriteLine("Soy Mauricio");
->>>>>>> mauricio
         }
     }
 }
